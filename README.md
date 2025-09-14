@@ -1,4 +1,4 @@
-## Hi there 👋
+## Learning Opensource and Github in OpensourceSW class!
 
 <!--
 **Jangazzi7109/Jangazzi7109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
